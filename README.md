@@ -26,4 +26,4 @@ Curiosity, discipline, and long-term mindset.
 
 ### 🌐 Profiles
 [ODS.ai](https://ods.ai/users/YOUR_LINK_HERE)  
-[Kaggle](https://kaggle.com/YOUR_LINK_HERE)
+[Kaggle]([(https://www.kaggle.com/katerinaml)]))
