@@ -25,5 +25,5 @@ Small steps every day — consistency beats motivation.
 Curiosity, discipline, and long-term mindset.
 
 ### 🌐 Profiles
-[ODS.ai](https://ods.ai/users/YOUR_LINK_HERE)  
+[ODS.ai](https://ods.ai/users/b90352cedec1f)
 [Kaggle](https://www.kaggle.com/katerinaml)
